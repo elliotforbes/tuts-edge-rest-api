@@ -9,5 +9,5 @@ def search(event, context):
             'Access-Control-Allow-Origin': '*"'
         }
     }
-
+    
     return response
